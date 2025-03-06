@@ -11,8 +11,8 @@ I thrive in dynamic environments where I can leverage my skills in both frontend
 ## 💻 Technologies & Tools
 
 ### Frontend Development
-- **Frameworks/Libraries:** Angular (10+), React, Ionic
-- **Languages:** TypeScript, JavaScript, C#
+- **Frameworks/Libraries:** Angular (15+), React, Ionic
+- **Languages:** TypeScript, JavaScript, C#,C++
 - **Styling:** Bootstrap, Tailwind CSS, SCSS
 
 ### Backend Development
@@ -20,7 +20,7 @@ I thrive in dynamic environments where I can leverage my skills in both frontend
 - **APIs:** RESTful APIs
 
 ### Databases
-- **Relational:** SQL Server, PostgreSQL
+- **Relational:** SQL Server, PostgreSQL, 
 - **NoSQL:** MongoDB
 
 ### Mobile Development 
